@@ -1,0 +1,4 @@
+Hey I am reading this file
+This is the second line.
+3rd line here.
+stop
